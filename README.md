@@ -13,3 +13,11 @@
  8. MakeFemaleRatio-Distance <br>
  9. BikeUsage-Time <br>
 10. BikeUsageSummary<br>
+11. SummerPeakHours <br>
+12. WinterPeakHours <br>
+13. Top10-StartingStations <br>
+14. Top10-EndingStations <br>
+15. Bottom10-StartingStation <br>
+16. Bottom10-EndingStation <br>
+
+
