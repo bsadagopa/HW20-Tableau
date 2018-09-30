@@ -1,6 +1,6 @@
 ## HW20 - Tableau Assignment - Citi Bike Analytics ##
 
-### Data Used : "201808-citibike-tripdata.csv" from CitiBike data site, https://s3.amazonaws.com/tripdata/index.html ###
+### Data Used : "[201801 to 201808] -citibike-tripdata.csv(s)", 8 month data from CitiBike data site, https://s3.amazonaws.com/tripdata/index.html ###
 
 #### Analysis charts for the data generated are: #### 
  1. StartStations <br>
